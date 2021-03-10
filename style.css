@@ -1,0 +1,12 @@
+body{
+ background-color: greenyellow;
+ color : honeydew;   
+}
+#camera{
+ border : 2px dashed hotpink;
+ width : 350px;
+ height : 300px;  
+}
+.nameOfObjects, #resultObjectName, #resultObjectAccuracy{
+ color : indianred;   
+}
